@@ -25,3 +25,5 @@ public class fibonacciseries {
 	}
 
 }
+//my learnings from this program
+//assigning variables and process that carried out to form fibonacci series inside for loop statement.
